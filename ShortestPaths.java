@@ -1,7 +1,8 @@
 /* ShortestPaths.java
-   CSC 226 - Fall 2019
+
+   Author: Shrey Patel
    
-   This template includes some testing code to help verify the implementation.
+   This project includes some testing code to help verify the implementation.
    To interactively provide test inputs, run the program with
    java ShortestPaths
    
@@ -24,12 +25,6 @@
    is always equal to A[j][i].
    
    An input file can contain an unlimited number of graphs; each will be processed separately.
-   
-   NOTE: For the purpose of marking, we consider the runtime (time complexity)
-         of your implementation to be based only on the work done starting from
-	 the ShortestPaths() method. That is, do not not be concerned with the fact that
-	 the current main method reads in a file that encodes graphs via an
-	 adjacency matrix (which takes time O(n^2) for a graph of n vertices).
    
    
 */
